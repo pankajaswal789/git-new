@@ -7,3 +7,8 @@ function Accbalance(value){
 balance +=value;
 
 }
+
+
+Accbalance(10);
+
+console.log("account balance is",balance);
