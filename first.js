@@ -11,3 +11,5 @@ function balanceaccount(){
 
 balanceaccount();
 console.log("account balance is",balance);
+
+console.log("balance bhot hai");
