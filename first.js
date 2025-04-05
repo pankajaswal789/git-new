@@ -15,3 +15,9 @@ console.log("Or pese chahiye");
 
 console.log("balance bhot hai");
 console.log("balance khtma month end hai");
+
+function showage(){
+
+    console.log("age is", age);
+}
+showage();
