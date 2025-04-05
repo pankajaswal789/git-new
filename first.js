@@ -23,3 +23,9 @@ function showage(value){
 }
 showage(10);
 
+function showname(){
+
+    console.log("name of mine is", name);
+}
+
+showname();
