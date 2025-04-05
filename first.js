@@ -1,10 +1,13 @@
 const name = "pankaj";
 const age=24;
-let balace=4000
+let balance=4000
 
 
 function balanceaccount(){
 
-    balance_+=200;
-    
+    balance+=200;
+
 }
+
+balanceaccount();
+console.log("account balance is",balance);
