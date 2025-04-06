@@ -29,3 +29,8 @@ function showname(){
 }
 
 showname();
+
+// fixing some bug
+
+console.log("bug fixed");
+
